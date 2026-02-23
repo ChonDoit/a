@@ -1,5 +1,8 @@
 #!/bin/bash
 
+playlist_path="/sdcard/ar"
+playlist="a.m3u"
+
 # Define the IDs you want to update
 ids=(
     "ArKbAx1K-2U" #A24
@@ -26,7 +29,7 @@ ids=(
     "LlcOeLqS7xg" #104.3
 )
 
-playlist="/sdcard/ar/a.m3u"
+pushd $playlist_path
 
 # 1. Create a Backup
 backup_file="${playlist}.$(date +%Y%m%d_%H%M).bak"
@@ -62,6 +65,7 @@ done
 
 echo ""
 echo "• Commit changes"
+git add logos
 git commit --all -q -m "Regulary update"
 
 echo "• Pushing changes"
@@ -69,3 +73,5 @@ git push -q -f
 
 echo "• Process complete."
 echo ""
+
+popd
