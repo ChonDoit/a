@@ -65,7 +65,7 @@ echo "• Commit changes"
 git commit --all -q -m "Regulary update"
 
 echo "• Pushing changes"
-git push -q
+git push -q -f
 
 echo "• Process complete."
 echo ""
