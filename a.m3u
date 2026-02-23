@@ -1,0 +1,351 @@
+#EXTM3U
+
+###############
+## NOTICIEROS
+###############
+
+#EXTINF:-1 tvtvg-name="24/7 Canal de Noticias" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/247.png" tvg-country="AR" group-title="Noticieros", 24/7 Canal de Noticias
+https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
+
+#EXTINF:-1 tvg-id="ArKbAx1K-2U" tvg-name="A24" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/a24.png" tvg-country="AR" group-title="Noticieros", A24
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1771842031/ei/j9WbaYzhEY-MobIPpYag6AU/ip/190.50.150.72/id/ArKbAx1K-2U.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-uxax4vopj55gb-x1xle.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AVNa5-yHfpXXJVDrohnpNwkXh5ncLhQMn0LzTvlHXUAc6XBRYDo54lo6Yah3CnA-VBUepOKqxIqOaYHG/spc/6dlaFCGB_M1zDUEJ8kVR/vprv/1/playlist_type/DVR/hcs/sd/met/1771820431,/mh/C8/mm/44/mn/sn-uxax4vopj55gb-x1xle/ms/lva/mv/u/mvi/2/pl/25/rmhost/rr4---sn-uxax4vopj55gb-x1xle.googlevideo.com/rms/lva,lva/smhost/rr10---sn-uxax4vopj55gb-x1xe.googlevideo.com/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565116,51565681,51580968/mt/1771818607/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,playlist_type/sig/AJEij0EwRAIgS3Bh3d4PzeEKlIfOv8J9vEMVo0iYc48AlgM4Uk9ooHgCIDOo5vgDlif7NCBlewWtKSMXIP89R3W_JIhsS2Lb0wt8/lsparams/hls_chunk_host,hcs,met,mh,mm,mn,ms,mv,mvi,pl,rmhost,rms,smhost/lsig/APaTxxMwRgIhAKsGtyEuOqTvtcTUXfz2eUbgezIcrVotePkdX93H9OpiAiEA-dyLfnV_asQdlQuYgf9gmKQcWa7dVAB6yO2MkXCu8eo%3D/playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="zcWXboTnous" tvg-name="América TV" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/america.png" tvg-country="AR" group-title="Noticieros", América TV
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+
+#EXTINF:-1 tvg-id="SF06Qy1Ct6Y" tvg-name="C5N" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/c5n.png" tvg-country="AR" group-title="Noticieros", C5N
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1771842041/ei/mdWbaYjONLaI1sQPjdqg6QI/ip/190.50.150.72/id/SF06Qy1Ct6Y.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-uxax4vopj55gb-x1xk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AVNa5-xGax1wWVBPAVVSsrZkGsNYo-kcsTBECQ9WHeZgWiIAI0K2a36MraV_ve7_Ic4sVo-JyNtiliwY/spc/6dlaFNExmQZCwyf901Ot/vprv/1/playlist_type/DVR/hcs/sd/met/1771820442,/mh/yp/mm/44/mn/sn-uxax4vopj55gb-x1xk/ms/lva/mv/u/mvi/3/pcm2cms/yes/pl/25/rmhost/rr5---sn-uxax4vopj55gb-x1xk.googlevideo.com/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51514994,51552689,51565116,51565681,51580968/mt/1771818607/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,playlist_type/sig/AJEij0EwRgIhAO-5HUMlMFI0T5rPTHjyzHPqDWC5iNDzKZInaBwXcdsiAiEAiPv5EVIJk9Zjon-m5jdsOfkthGlio_3k260RvkpX7PE%3D/lsparams/hls_chunk_host,hcs,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rmhost,rms/lsig/APaTxxMwRQIgBrpbJz7m9LGk9KTyEzwQwXrehkHaF3viMLwx2J2ceyICIQCS6KKWyKm0AJ0N0BulYmXXQnFMBBpnYPSsr_HHhTaiWQ%3D%3D/playlist/index.m3u8
+
+#EXTINF:-1 tvg-name="Canal 9" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/logo.png" tvg-country="AR" group-title="Noticieros", Canal 9
+https://sae11.playlist.ttvnw.net/v1/playlist/CvkG3LSLv83iK3OX6K5IRaSuMx3u8w4V0rZfM5VRCbooUrTecO0QoLRehS5Mf0Zl5o55YJDWdCoIyz7mgDkcSJfr07YRrDhwyEZ7fmSaPj7AFGuI9fXYhmskXefqyxfHDVcg18tmwk9gdyQJtRffy7P-p7i0xr6ozW4Ih9all4h0ewyb1cDhhx3L403rdUSGdbfMalvt4tA9CmOzZcBZxh35tkFTzO_bNHCU2HEy9BAXp0WJXUBpowwQlCHkaL6pHsV8deFhibpkd2v_2YqOqyUc1hVHusq8niJ0LujdBBf2LuceFXOw0sn0kBmPiJBAz698m4mKmGSQc_obDmaOv7MhAjQmj7X4W_7BfHWGSzzhZBsxX6TJYP-5VaeZBAbXn4KunDOSUHmUSBoPHQ5Xegxwd_SNbEdV7d5fVDmhrT40YAAQ2A068apZGJaU5gKdu2LBzfrrc-IXBLWJ-PHqNqam_kyPhOQt5t0es4VEb9NQ8cdPwp-xxbrm6dA_ENEVAYPJqlf0AigKSiPc36i_qwz_AB0mY1o8jyntRnC8BsMrAxcbyZYQ9QO_WSlWgowCu_GKTYL34gZno48iswdJ_mAmtxxH3SC2jJA59a7Ey6Lg4HWNQ9gxxfUUgduyKXqx0j7aTZulvZJm4xNkYnngziw8N0sBOcGqYQy2lvzpOP8NBHRfFaXKqT0xEmjNuRD1eSpsvpT0A40s_mhPWti8L_eTkCbfqbOhCiCFMX6r-LzGYO1f_daCEz0ZL6IRU6b0I7DRUzi7wH_SkLYZnIAGjdsFfeiqhlbpZU70P38iy7V9q8Sx6wUq--SX2gKg7Qv4w7R5HjsupE6hzUvxolQW8xASLg-YzXSkGBWKOaCGp6t-oF8ss7eUynyALvJtCg41r_4PxWTmiFCeM1xepBCc8vBuaAc1AltaK5rqSg_4XHFyVTeof0cfQRbWWW8udsu92J0M6tnXtaSYsrub_Pe_uMrQHxm9ptFoSmsVaehAOzMR3EGjOqP38EPPXUkfFJprR8_500QMzEm3Mgep8koBE_bqLz3CIX0rQNZmBFdftB4yWVI30xEnTWVU8ajrgDDG4bkGK25441r-A6eNZC8LA5qCskNPbHO226BI15PrZH_1iquebSuw3-qbgFQgqzm32ZYxm9k5tNY8x-dncRYM9nheWgJGh2xPhGG_ehoMclHWa3C57M_VXYFGIAEqCXVzLWVhc3QtMjC9Dg.m3u8
+
+#EXTINF:-1 tvg-name="Canal 21 TV" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/canal21.png" tvg-country="AR" group-title="Noticieros", Canal 21 TV
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="c8Uxc6pwDNA" tvg-name="Canal 26" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/canal26.png" tvg-country="AR" group-title="Noticieros", Canal 26
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1771842046/ei/ntWbaZq5Mq2QobIPysDYCA/ip/190.50.150.72/id/c8Uxc6pwDNA.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-uxax4vopj55gb-x1xk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AVNa5-x3UcUi5V6QODm1f541IZJGU5AHGPe5NiuYkfxQVTIC667u6IrwmHR1VUOMp1bkH7uETvx23s1U/spc/6dlaFPI40GZ07zQkUTud/vprv/1/playlist_type/DVR/hcs/sd/met/1771820447,/mh/UG/mm/44/mn/sn-uxax4vopj55gb-x1xk/ms/lva/mv/u/mvi/5/pl/25/rmhost/rr3---sn-uxax4vopj55gb-x1xk.googlevideo.com/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565116,51565681,51580968/mt/1771818607/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,playlist_type/sig/AJEij0EwRQIhAKNICG2dVHSRp1E1OqYZGiKAr9KDZOkRKhLEPKeuRZp8AiBM8XZPJjMQPqJ8k-StLIWKxrQGOEQIjGqaCqLVFW29lg%3D%3D/lsparams/hls_chunk_host,hcs,met,mh,mm,mn,ms,mv,mvi,pl,rmhost,rms/lsig/APaTxxMwRQIhAOj8AGkcGIX5_iYh3J3ggLQk5bpL35uEymD7hOOv3bnNAiB6k5ajDP5povGIZKHYTnCDkDpfMRh7eL2bEED28CJ88g%3D%3D/playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="Qr61waJ6AZg" #CNÑ tvg-name="CNN ARG" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/cnn.png" tvg-country="AR" group-title="Noticieros", CNN en español
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1771842052/ei/pNWbabmvBcuU-LAPpvvt6AM/ip/190.50.150.72/id/Qr61waJ6AZg.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-uxax4vopj55gb-x1xle.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/ctier/SPL/ss/1/bui/AVNa5-zjL8Zh-XVC6JOkgfNCQRLCzlgdl95wrp_jw-zNS1uuMMrTMG1Yr02Zj1-dlNtBG1Z--ZEu8rIq/spc/6dlaFCN-5-hcK8UnsoP1/vprv/1/playlist_type/DVR/met/1771820453,/mh/AY/mm/44/mn/sn-uxax4vopj55gb-x1xle/ms/lva/mv/u/mvi/1/pl/25/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565116,51565681,51580968/mt/1771818607/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,ctier,ss,bui,spc,vprv,playlist_type/sig/AJEij0EwRAIgV3ZYNkWTBgqQM6bSyXklVpPg0ZrFZUWyXBOCCXQyUOQCIDejUfqp__WEq_tY8NDCIbeKE7SnBvkdo1fdMu3ShqNP/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAMp-6YIw49OzSPu29xEAN00d9hmyxzNC0I2gtrortCJwAiEA-NC8yvkGeJAGdi5byQAGOKDxBH7XhoLGg_mlwIZtdbg%3D/playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="sGnaFL_Syl0" tvg-name="Crónica TV" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/cronica.png" tvg-country="AR" group-title="Noticieros", Crónica TV
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1771842057/ei/qdWbaePKLJG0obIPtqzE8Q8/ip/190.50.150.72/id/sGnaFL_Syl0.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr8---sn-uxax4vopj55gb-x1xr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AVNa5-y3T7pd4BHcOD8v4oPoGGR_zDW0pYFvfawXMGT9pp44a1GxEI02XJNRP3i4DYlnDMdjthdpc7Z_/spc/6dlaFHekXYezfhND_0R3/vprv/1/playlist_type/DVR/hcs/sd/met/1771820458,/mh/Os/mm/44/mn/sn-uxax4vopj55gb-x1xr/ms/lva/mv/u/mvi/8/pcm2cms/yes/pl/25/rmhost/rr6---sn-uxax4vopj55gb-x1xr.googlevideo.com/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565115,51565682,51580968/mt/1771818607/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,playlist_type/sig/AJEij0EwRAIgFhbblFBTzYv4GVFmfkzg45rmv8MDoKq_EpUV-gVBqkwCIErKY-vBYAGevgXTNnLUcBvCx3wnLaLuf5k72UDLGq55/lsparams/hls_chunk_host,hcs,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rmhost,rms/lsig/APaTxxMwRQIhAPfTCS24rNE1-9a0hM5EsBoGAHEKPGAiRmrF0g7IyyvhAiAFsu9NALhzl7Mswz1LYIHSIB4iRhCY2GVcpeMWdD6d_A%3D%3D/playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="HugsOqwPsHA" tvg-name="Diputados TV" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/diputados.png" tvg-country="AR" group-title="Noticieros", Diputados TV
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1771842062/ei/rtWbaZnjJIXq1AHL2KTgCA/ip/190.50.150.72/id/HugsOqwPsHA.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-uxax4vopj55gb-x1xk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AVNa5-wMsQUUpjrD0tB7Bc4x609zhgcqdPBW_8OaZzdH9Yvj0gaME3QBAGWAzrLxsuuWrwOsyAoPRZA8/spc/6dlaFBkB4qcCOF1f56hL/vprv/1/reg/0/playlist_type/DVR/met/1771820463,/mh/2z/mm/44/mn/sn-uxax4vopj55gb-x1xk/ms/lva/mv/u/mvi/3/pl/25/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565115,51565682,51580968/mt/1771818607/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AJEij0EwRAIgZ8lIppmkISDnz-dPGEnspdJ0D77G1q6CCxdO6wVDwFcCICb4dJnRiVk-R3YuEjwFsAdjx7t5DEI7Hv-IX4rd4f8w/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgbOI9rD7k9UpYk-Jcxsu7jWRajgFtCwFVXnaz0KQ0WNwCIDfQ3TnJyAL8tDENByETCyCYfqyg-dcQeajxKH_37Qmk/playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="nndzeKDSjuc" tvg-name="El Doce" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/logo.png" tvg-country="AR" group-title="Noticieros", El Doce
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1771842067/ei/s9WbaZWIIMyS-LAPuN7F2Q8/ip/190.50.150.72/id/nndzeKDSjuc.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr8---sn-uxax4vopj55gb-x1xk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AVNa5-x_ShT2T9Ids7US_NbOfX5LfyY2VeOfNEjqY-_D--JihDykfqQKpSgbCereGT97pQ7qJMX5Nv44/spc/6dlaFN8d0oHCZ-jgKb2W/vprv/1/playlist_type/DVR/met/1771820467,/mh/6s/mm/44/mn/sn-uxax4vopj55gb-x1xk/ms/lva/mv/u/mvi/8/pl/25/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565116,51565681,51580968/mt/1771818607/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,playlist_type/sig/AJEij0EwRQIgXJwxSkQLPJ2xSvrytiwNPNo5xvzml9RslsF7-h2lDZUCIQC85UHpPAcuNJJGBcpTKRRVMOYH3-Onb0ZCbIS3DJtUvQ%3D%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgRFMcl5F84wpLKSgsrMJjRgTHJaQhcMcclETzL4p4FucCIQDUhey73Vc7YGjfYe6gD_M094tc9E-cgzi8j2KMAbld1Q%3D%3D/playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="b4X7InUxnAI" tvg-name="El Ocho" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/logo.png" tvg-country="AR" group-title="Noticieros", El Ocho
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1771842072/ei/uNWbacmIEfGI1sQPy53miQk/ip/190.50.150.72/id/b4X7InUxnAI.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr7---sn-uxax4vopj55gb-x1xk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AVNa5-xeRzESfT8LEOC3nPsecIuWf6XcOyLXiDTzHQlKLDNN_X9ViaFF2PeaWIwWvdums9dkuulpTE6W/spc/6dlaFDN3QUXE9GZsoSCR/vprv/1/playlist_type/DVR/met/1771820472,/mh/Bu/mm/44/mn/sn-uxax4vopj55gb-x1xk/ms/lva/mv/u/mvi/7/pl/25/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565115,51565682,51580968/mt/1771818607/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,playlist_type/sig/AJEij0EwRQIhAPOgPTJaexCsq56WHUp_nD6MG0M7uvt_tRtqKZlQeejSAiBakDCcSOEdedeLQuzT0srFfjlIO20JoyuNCoqOMNufvA%3D%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAJ8hMevYs47nYkm5rt0mLd9BO2twYO6oyiVB6AJRYGs8AiBjvGMdoYxzpp1jTi_THjCw5ePWzhGFWAzE3M027tmx9Q%3D%3D/playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="R50CmfdYKto" tvg-name="El Once TV" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/logo.png" tvg-country="AR" group-title="Noticieros", El Once TV
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1771842082/ei/wtWbaa78BYH51sQPwaGXiA8/ip/190.50.150.72/id/R50CmfdYKto.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr2---sn-uxax4vopj55gb-x1xr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AVNa5-yvKLK7eDwPmv-hvjAPBNnnGM7S8LmKDNN8aepx2S1MnNgwtimWX9Hse9qZDaTjSfUFdrjpN6fB/spc/6dlaFCaogqJURLNfJ-em/vprv/1/playlist_type/DVR/met/1771820482,/mh/XE/mm/44/mn/sn-uxax4vopj55gb-x1xr/ms/lva/mv/u/mvi/2/pl/25/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565116,51565682,51580968/mt/1771818607/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,playlist_type/sig/AJEij0EwRQIhAIjjDdjLKiuakEcOJTc8ToQT2l9RXs3jyj0i1W9AeMJZAiAo_7LzEO71-BupnrrCHOmQ_mEei-d0Xt-TcBwzbRIG-Q%3D%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgIX9CUNFMb27eVHyOlfpNxMc8xuKAffH0DgulsKCG1SQCIFyMYzKAC_4vuk_-tCePa76ntZs1TJXj7Gt8-CTPOUWA/playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="Vh8xmLBJtR8" tvg-name="El Siete TV" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/logo.png" tvg-country="AR" group-title="Noticieros", El Siete TV
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1771842086/ei/xtWbad6KJIqaobIPnNq2kQY/ip/190.50.150.72/id/Vh8xmLBJtR8.407/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr7---sn-uxax4vopj55gb-x1xk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/gcr/ar/bui/AVNa5-wKFBpUhbUwzwhT-0FtI4E90gvnbsIeek5zwW7aAZhvOfz36c1MFRzTMnSNceinpqcUPzSmHBdo/spc/6dlaFIna1pfHWHGFFkhz/vprv/1/playlist_type/DVR/met/1771820487,/mh/Ha/mm/44/mn/sn-uxax4vopj55gb-x1xk/ms/lva/mv/u/mvi/7/pl/25/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565115,51565681,51580968/mt/1771818607/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,gcr,bui,spc,vprv,playlist_type/sig/AJEij0EwRQIhAIzoKI5Hah4i9Cr4yBhIm8bVMZDuBjFzyaG8z2c4AA6-AiABaPBhaAm1SAKzilL8_WgL5GByhbcku-WD_oUTs3jl5g%3D%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgERTrpp7EHfqEPhRjWvrzpSLyUDtVtBYVejqDe6emqSACIQD9edPEipoXp-PBd7ZtMSAzBWFJAk_lpGOgUQahZpobjA%3D%3D/playlist/index.m3u8
+
+#EXTINF:-1 tvg-name="13 • El Trece" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/logo.png" tvg-country="AR" group-title="Noticieros", El Trece
+https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/index.m3u8
+
+#EXTINF:-1 tvg-id="M_gUd2Bp9g0" tvg-name="La Nación+" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/logo.png" tvg-country="AR" group-title="Noticieros", La Nación+
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1771842093/ei/zdWbadL7KKW21sQPhIWKiAw/ip/190.50.150.72/id/M_gUd2Bp9g0.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-uxax4vopj55gb-x1xr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AVNa5-zUa0fJXUhPanENEVRqnQaQqDJGRf4koOqgOxjoZIq1V_eHPT6fKv3_zL_YkuqoRVTDYu2dxf52/spc/6dlaFDnrWLGFFsmrLpcU/vprv/1/reg/0/playlist_type/DVR/hcs/sd/met/1771820494,/mh/su/mm/44/mn/sn-uxax4vopj55gb-x1xr/ms/lva/mv/u/mvi/1/pl/25/rmhost/rr4---sn-uxax4vopj55gb-x1xr.googlevideo.com/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565116,51565682,51580968/mt/1771818607/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AJEij0EwRgIhALJyY1geEBGeiYRxEZII5ddBAq7c6xSNnveVBg7U8y3lAiEAtuHYmTutMC23M2Nvqmv0PcFWKod0zOddfUCjsnPBvOo%3D/lsparams/hls_chunk_host,hcs,met,mh,mm,mn,ms,mv,mvi,pl,rmhost,rms/lsig/APaTxxMwRQIgFLY8OmjCjmm3cT9S54C6D9H-pexZ_CCtTVUGOsI54Z4CIQC-o5B4FkqF_ybnnegpV28EXl32pquWjLezJHOJF0S8iQ%3D%3D/playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="XhAYcYpPzTc" tvg-name="Telefe Noticias" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/logo.png" tvg-country="AR" group-title="Noticieros", Telefe Noticias
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1771842103/ei/19Wbac7GBrqhobIP_NOzsAo/ip/190.50.150.72/id/XhAYcYpPzTc.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr8---sn-uxax4vopj55gb-x1xk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AVNa5-xtGoUbtrD9w1fj7WQDVJTXSo2uNNK9-XGsH2ZKMHtHc_LAIiIi8kGObn31mCaxKdPj_LtY4uo_/spc/6dlaFONmDaFzdDFhpNOu/vprv/1/playlist_type/DVR/hcs/sd/met/1771820503,/mh/04/mm/44/mn/sn-uxax4vopj55gb-x1xk/ms/lva/mv/u/mvi/8/pl/25/rmhost/rr4---sn-uxax4vopj55gb-x1xk.googlevideo.com/rms/lva,lva/smhost/rr5---sn-uxax4vopj55gb-x1xr.googlevideo.com/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565115,51565682,51580968/mt/1771818607/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,playlist_type/sig/AJEij0EwRQIgN2y3r-POVunPCkOXHOoe4UauamuRDaDjpCkq0aTZHcYCIQDjZZjXdMoVe9yhz7B8CAj0zibzumRfUN61CuFJxbcB3w%3D%3D/lsparams/hls_chunk_host,hcs,met,mh,mm,mn,ms,mv,mvi,pl,rmhost,rms,smhost/lsig/APaTxxMwRQIhAOKWGoBbBKWT3PCvA2XhPSU1o2R9k7eB_lY_oeBjyNNNAiAV7dLNYbeoblnzy9Gdb2zFhGo4A56xfGExOZzbREjcFQ%3D%3D/playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="zrCQt4bm-Qc" tvg-name="Telefe Rosario" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/logo.png" tvg-country="AR" group-title="Noticieros", Telefe Rosario
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1771842108/ei/29Wbab6EPa-PobIP_vTvgAY/ip/190.50.150.72/id/zrCQt4bm-Qc.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr7---sn-uxax4vopj55gb-x1xk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AVNa5-zmvSXuvIwFE2kSbr-bTAAogh6ictyNSlEbOzQDVDHZpHEN7yH4dE2ScnxORpV3wr7z1niobMXh/spc/6dlaFIvsh1cE-IJxG2t9/vprv/1/playlist_type/DVR/met/1771820508,/mh/9Y/mm/44/mn/sn-uxax4vopj55gb-x1xk/ms/lva/mv/u/mvi/7/pcm2cms/yes/pl/25/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565116,51565681,51580968/mt/1771818607/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,playlist_type/sig/AJEij0EwRgIhAO7nY6bvMKBspmZTxGN2__c_wKRxt7ChTvwfxGx-o_X7AiEA0Zssvawe5vZEJnhGMc1Fwu5bRcY_dJHv1xNS9cHRCUo%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rms/lsig/APaTxxMwRQIgD6hLp658P55ggoNYH-gqzBzk95fKPsSBsrUEPlARK7cCIQD1X8qrmpfjN9pHbNNgz8RhgUPrsdfRwaAEakZqvWxZbw%3D%3D/playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="RQNspfI2zCk" tvg-name="Televisión Pública" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/logo.png" tvg-country="AR" group-title="Noticieros", Televisión Pública
+https://g2.proy-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cb12KmMMDJA" tvg-name="TN • Todo Noticias" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/tn.png" tvg-country="AR" group-title="Noticieros", Todo Noticias
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1771842112/ei/4NWbac_CMZjq1sQPrITb8As/ip/190.50.150.72/id/cb12KmMMDJA.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr7---sn-uxax4vopj55gb-x1xk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AVNa5-z-2-HfK057KOxcoDLtm3vtB5QeC1UqDlCmuq47FQSSTiXyaQgUAeHhruhN9IOiyHiqps4W79nc/spc/6dlaFJ3w8KACgd-8xVB4/vprv/1/playlist_type/DVR/hcs/sd/met/1771820513,/mh/o5/mm/44/mn/sn-uxax4vopj55gb-x1xk/ms/lva/mv/u/mvi/7/pl/25/rms/lva,lva/smhost/rr5---sn-uxax4vopj55gb-x1xr.googlevideo.com/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565116,51565682,51580968,51791333/mt/1771818607/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,playlist_type/sig/AJEij0EwRQIgH9SvBJXcirISclJ_G4QQELXyzmPZz5lEK7Zj3ZDod48CIQC6VibdVyadb7FevLaCvmaowFatIlURyWiFh-Eve8xD_Q%3D%3D/lsparams/hls_chunk_host,hcs,met,mh,mm,mn,ms,mv,mvi,pl,rms,smhost/lsig/APaTxxMwRgIhAPhPvd28UKTVl-C2heypnnW4VfOjxq7aKZSKBv4byIBHAiEAzYRWgKijv9W-0WPJzt7lSxgTsSspY0FU6kKoJl4TiC4%3D/playlist/index.m3u8
+
+##############
+## ESPN ARG
+##############
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/espn.png" tvg-country="AR" group-title="ESPN", ESPN
+http://mgoplus.org:2086/live/CON021094/021094/108631.ts
+
+#EXTINF:-1 tvg-id="ESPNHD" tvg-name="ESPN HD" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/espn.png" tvg-country="AR" group-title="ESPN", ESPN HD
+http://mgoplus.org:2086/live/CON021094/021094/284603.ts
+
+#EXTINF:-1 tvg-id="ESPNPA" tvg-name="ESPN Premium Argentina" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/espn.png" tvg-country="AR" group-title="ESPN", ESPN Premium Argentina
+http://mgoplus.org:2086/live/CON021094/021094/160136.ts
+
+#EXTINF:-1 tvg-id="ESPN Premium" tvg-name="ESPN Premium" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/espn.png" tvg-country="AR" group-title="ESPN", ESPN Premium
+http://mgoplus.org:2086/live/CON021094/021094/3368.ts
+
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/espn.png" tvg-country="AR" group-title="ESPN", ESPN 2
+http://mgoplus.org:2086/live/CON021094/021094/160132.ts
+
+#EXTINF:-1 tvg-id="ESPN3HD" tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/espn.png" tvg-country="AR" group-title="ESPN", ESPN 3
+http://mgoplus.org:2086/live/CON021094/021094/160133.ts
+
+#EXTINF:-1 tvg-id="ESPN4HD" tvg-name="ESPN 4" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/espn.png" tvg-country="AR" group-title="ESPN", ESPN 4
+http://mgoplus.org:2086/live/CON021094/021094/160134.ts
+
+#EXTINF:-1 tvg-id="ESPN4HD" tvg-name="ESPN 4 HD" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/espn.png" tvg-country="AR" group-title="ESPN", ESPN 4 HD
+http://mgoplus.org:2086/live/CON021094/021094/3711.ts
+
+#EXTINF:-1 tvg-id="ESPN5HD" tvg-name="ESPN 5 HD" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/espn.png" tvg-country="AR" group-title="ESPN", ESPN 5 HD
+http://mgoplus.org:2086/live/CON021094/021094/3712.ts
+
+#EXTINF:-1 tvg-id="ESPN7" tvg-name="ESPN 7" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/espn.png" tvg-country="AR" group-title="ESPN", ESPN 7
+http://mgoplus.org:2086/live/CON021094/021094/112610.ts
+
+#EXTINF:-1 tvg-id="ESPN7HD" tvg-name="ESPN 7 HD" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/espn.png" tvg-country="AR" group-title="ESPN", ESPN 7 HD
+http://mgoplus.org:2086/live/CON021094/021094/3366.ts
+
+#################
+## ESPN Regional
+#################
+
+#EXTINF:-1 tvg-id="ESPNS" tvg-name="ESPN Sur" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/espn.png" tvg-country="AR" group-title="ESPN Regional", ESPN Sur
+http://mgoplus.org:2086/live/CON021094/021094/3713.ts
+
+#EXTINF:-1 tvg-id="ESPNN" tvg-name="ESPN Norte" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/espn.png" tvg-country="AR" group-title="ESPN Regional", ESPN Norte
+http://mgoplus.org:2086/live/CON021094/021094/3357.ts
+
+#EXTINF:-1 tvg-id="ESPN2S" tvg-name="ESPN 2 Sur" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/espn.png" tvg-country="AR" group-title="ESPN Regional", ESPN 2 Sur
+http://mgoplus.org:2086/live/CON021094/021094/7868.ts
+
+#EXTINF:-1 tvg-id="ESPN2N" tvg-name="ESPN 2 Norte" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/espn.png" tvg-country="AR" group-title="ESPN Regional", ESPN 2 Norte
+http://mgoplus.org:2086/live/CON021094/021094/3708.ts
+
+#EXTINF:-1 tvg-id="ESPN3N" tvg-name="ESPN 3 Norte" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/espn.png" tvg-country="AR" group-title="ESPN Regional", ESPN 3 Norte
+http://mgoplus.org:2086/live/CON021094/021094/7917.ts
+
+#EXTINF:-1 tvg-id="ESPN4N" tvg-name="ESPN 4 Norte" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/espn.png" tvg-country="AR" group-title="ESPN Regional", ESPN 4 Norte
+http://mgoplus.org:2086/live/CON021094/021094/8034.ts
+
+#EXTINF:-1 tvg-id="ESPN5HDN" tvg-name="ESPN 5 Norte" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/espn.png" tvg-country="AR" group-title="ESPN Regional", ESPN 5 HD Norte
+http://mgoplus.org:2086/live/CON021094/021094/8033.ts
+
+#EXTINF:-1 tvg-id="ESPN6N" tvg-name="ESPN 6 Norte" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/espn.png" tvg-country="AR" group-title="ESPN Regional", ESPN 6 Norte
+http://mgoplus.org:2086/live/CON021094/021094/8035.ts
+
+############
+## DSports 
+############
+
+#EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/dsports.png" tvg-country="AR" group-title="DSports", Dsports
+http://mgoplus.org:2086/live/CON021094/021094/3483.ts
+
+#EXTINF:-1 tvg-id="Dsports2" tvg-name="DSports 2" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/dsports.png" tvg-country="AR" group-title="DSports", DSports 2
+http://mgoplus.org:2086/live/CON021094/021094/3484.ts
+
+#EXTINF:-1 tvg-id="Dsports+" tvg-name="DSports +" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/dsports.png" tvg-country="AR" group-title="DSports", DSports+
+http://mgoplus.org:2086/live/CON021094/021094/3485.ts
+
+###############
+## Claro Sports 
+###############
+
+#EXTINF:-1 tvg-id="ClaroSports" tvg-name="ClaroSports" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/claro_sports.png" tvg-country="AR" group-title="Claro", Claro Sports
+http://mgoplus.org:2086/live/CON021094/021094/7648.ts
+
+#EXTINF:-1 tvg-id="ClaroSports2" tvg-name="Claro Sports 2" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/claro_sports.png" tvg-country="AR" group-title="Claro", Claro Sports 2
+http://mgoplus.org:2086/live/CON021094/021094/7673.ts
+
+##############
+## Fox Sports 
+##############
+
+#EXTINF:-1 tvg-id="FoxSportsArg" tvg-name="Fox Sports" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/fox_sports.png" tvg-country="AR" group-title="Fox Sports", Fox Sports
+http://mgoplus.org:2086/live/CON021094/021094/108714.ts
+
+#EXTINF:-1 tvg-id="FoxSportsArgHD" tvg-name="Fox Sports HD" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/fox_sports.png" tvg-country="AR" group-title="Fox Sports", Fox Sports HD
+http://mgoplus.org:2086/live/CON021094/021094/108715.ts
+
+#EXTINF:-1 tvg-id="FoxPremium" tvg-name="Fox Premium" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/fox_sports.png" tvg-country="AR" group-title="Fox Sports", Fox Premium
+http://mgoplus.org:2086/live/CON021094/021094/11426.ts
+
+#EXTINF:-1 tvg-id="FoxSportsP" tvg-name="Fox Sports Premium" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/fox_sports.png" tvg-country="AR" group-title="Fox Sports", Fox Sports Premium
+http://mgoplus.org:2086/live/CON021094/021094/108790.ts
+
+#EXTINF:-1 tvg-id="FoxSports2" tvg-name="Fox Sports 2" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/fox_sports.png" tvg-country="AR" group-title="Fox Sports", Fox Sports 2
+http://mgoplus.org:2086/live/CON021094/021094/108826.ts
+
+#EXTINF:-1 tvg-id="FoxSports2HD" tvg-name="Fox Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/fox_sports.png" tvg-country="AR" group-title="Fox Sports", Fox Sports 2 HD
+http://mgoplus.org:2086/live/CON021094/021094/108827.ts
+
+#EXTINF:-1 tvg-id="FoxSports2N" tvg-name="Fox Sports 2 Norte" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/fox_sports.png" tvg-country="AR" group-title="Fox Sports", Fox Sports 2 Norte
+http://mgoplus.org:2086/live/CON021094/021094/108727.ts
+
+#EXTINF:-1 tvg-id="FoxSports3" tvg-name="Fox Sports 3" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/fox_sports.png" tvg-country="AR" group-title="Fox Sports", Fox Sports 3
+http://mgoplus.org:2086/live/CON021094/021094/108828.ts
+
+#EXTINF:-1 tvg-id="FoxSports3HD" tvg-name="Fox Sports 3 HD" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/fox_sports.png" tvg-country="AR" group-title="Fox Sports", Fox Sports 3 HD
+http://mgoplus.org:2086/live/CON021094/021094/108829.ts
+
+#EXTINF:-1 tvg-id="FoxSports3N" tvg-name="Fox Sports 3 Norte" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/fox_sports.png" tvg-country="AR" group-title="Fox Sports", Fox Sports 3 Norte
+http://mgoplus.org:2086/live/CON021094/021094/108791.ts
+
+############
+## DAZN 
+############
+
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES: DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="DAZN DEPORTES",ES: (FHD) DAZN 1
+http://esprogregbb.top:8080/ES0122176849302935/xzji7kz4d69a/105
+# http://esprogregbb.top:8080/ES0122176849302935/xzji7kz4d69a/16656
+# http://esprogregbb.top:8080/ES0122176849302935/xzji7kz4d69a/16657
+
+#EXTINF:-1 tvg-id="dazn2.es" tvg-name="ES: DAZN 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_2.png" group-title="DAZN DEPORTES",ES: DAZN 2
+http://esprogregbb.top:8080/ES0122176849302935/xzji7kz4d69a/106
+
+#EXTINF:-1 tvg-id="dazn3.es" tvg-name="ES: DAZN 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_3.png" group-title="DAZN DEPORTES",ES: DAZN 3
+http://esprogregbb.top:8080/ES0122176849302935/xzji7kz4d69a/142
+
+#EXTINF:-1 tvg-id="dazn4.es" tvg-name="ES: DAZN 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_4.png" group-title="DAZN DEPORTES",ES: DAZN 4
+http://esprogregbb.top:8080/ES0122176849302935/xzji7kz4d69a/143
+
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES: DAZN F1 (HD)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="DAZN F1",ES: (HD) DAZN F1
+http://esprogregbb.top:8080/ES0122176849302935/xzji7kz4d69a/104
+# http://esprogregbb.top:8080/ES0122176849302935/xzji7kz4d69a/402
+
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES: DAZN F1 (FHD)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="DAZN F1",ES: (FHD) DAZN F1
+http://esprogregbb.top:8080/ES0122176849302935/xzji7kz4d69a/401
+# http://esprogregbb.top:8080/ES0122176849302935/xzji7kz4d69a/400
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN NFL Event 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/nfl.png" group-title="DAZN NFL",ES: DAZN NFL Event 1
+http://esprogregbb.top:8080/ES0122176849302935/xzji7kz4d69a/74509
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN NFL Event 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/nfl.png" group-title="DAZN NFL",ES: DAZN NFL Event 2
+http://esprogregbb.top:8080/ES0122176849302935/xzji7kz4d69a/74510
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN NFL Event 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/nfl.png" group-title="DAZN NFL",ES: DAZN NFL Event 3
+http://esprogregbb.top:8080/ES0122176849302935/xzji7kz4d69a/74511
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN NFL Event 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/nfl.png" group-title="DAZN NFL",ES: DAZN NFL Event 4
+http://esprogregbb.top:8080/ES0122176849302935/xzji7kz4d69a/74512
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN NFL Event 5" tvg-logo="https://docdog.top/logo/countries/spain/movistar/nfl.png" group-title="DAZN NFL",ES: DAZN NFL Event 5
+http://esprogregbb.top:8080/ES0122176849302935/xzji7kz4d69a/74513
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN NBA Event 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/nba.png" group-title="DAZN NBA",ES: DAZN NBA Event 1
+http://esprogregbb.top:8080/ES0122176849302935/xzji7kz4d69a/74514
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN NBA Event 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/nba.png" group-title="DAZN NBA",ES: DAZN NBA Event 2
+http://esprogregbb.top:8080/ES0122176849302935/xzji7kz4d69a/74515
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN NBA Event 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/nba.png" group-title="DAZN NBA",ES: DAZN NBA Event 3
+http://esprogregbb.top:8080/ES0122176849302935/xzji7kz4d69a/74516
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN NBA Event 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/nba.png" group-title="DAZN NBA",ES: DAZN NBA Event 4
+http://esprogregbb.top:8080/ES0122176849302935/xzji7kz4d69a/74517
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN NBA Event 5" tvg-logo="https://docdog.top/logo/countries/spain/movistar/nba.png" group-title="DAZN NBA",ES: DAZN NBA Event 5
+http://esprogregbb.top:8080/ES0122176849302935/xzji7kz4d69a/74518
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN Event 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" group-title="DAZN EVENTOS",ES: DAZN Event 1
+http://esprogregbb.top:8080/ES0122176849302935/xzji7kz4d69a/74519
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN Event 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" group-title="DAZN EVENTOS",ES: DAZN Event 2
+http://esprogregbb.top:8080/ES0122176849302935/xzji7kz4d69a/74520
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN Event 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" group-title="DAZN EVENTOS",ES: DAZN Event 3
+http://esprogregbb.top:8080/ES0122176849302935/xzji7kz4d69a/74521
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN Event 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" group-title="DAZN EVENTOS",ES: DAZN Event 4
+http://esprogregbb.top:8080/ES0122176849302935/xzji7kz4d69a/74522
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN Event 5" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" group-title="DAZN EVENTOS",ES: DAZN Event 5
+http://esprogregbb.top:8080/ES0122176849302935/xzji7kz4d69a/74523
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN Event 6" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" group-title="DAZN EVENTOS",ES: DAZN Event 6
+http://esprogregbb.top:8080/ES0122176849302935/xzji7kz4d69a/74524
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN Event 7" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" group-title="DAZN EVENTOS",ES: DAZN Event 7
+http://esprogregbb.top:8080/ES0122176849302935/xzji7kz4d69a/74525
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN Event 8" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" group-title="DAZN EVENTOS",ES: DAZN Event 8
+http://esprogregbb.top:8080/ES0122176849302935/xzji7kz4d69a/74526
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN Event 9" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" group-title="DAZN EVENTOS",ES: DAZN Event 9
+http://esprogregbb.top:8080/ES0122176849302935/xzji7kz4d69a/74527
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN Event 10" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" group-title="DAZN EVENTOS",ES: DAZN Event 10
+http://esprogregbb.top:8080/ES0122176849302935/xzji7kz4d69a/74528
+
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: DAZN LALIGA (HD)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="DAZN LALIGA",ES: (HD) DAZN LALIGA
+http://esprogregbb.top:8080/ES0122176849302935/xzji7kz4d69a/391
+# http://esprogregbb.top:8080/ES0122176849302935/xzji7kz4d69a/393
+# http://esprogregbb.top:8080/ES0122176849302935/xzji7kz4d69a/74434
+
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: DAZN LALIGA (FHD)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="DAZN LALIGA",ES: (FHD) DAZN LALIGA
+http://esprogregbb.top:8080/ES0122176849302935/xzji7kz4d69a/392
+# http://esprogregbb.top:8080/ES0122176849302935/xzji7kz4d69a/394
+
+#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="ES: DAZN LALIGA 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA_2.png" group-title="DAZN LALIGA",ES: DAZN LALIGA 2
+http://esprogregbb.top:8080/ES0122176849302935/xzji7kz4d69a/395
+
+############
+## RADIOS 
+############
+
+#EXTINF:-1 tvg-id="TyCS" tvg-name="TyC Sports" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/tycs.png" tvg-country="AR" group-title="Fox Sports", TyC Sports
+http://mgoplus.org:2086/live/CON021094/021094/8116.ts
+
+#EXTINF:-1 tvg-id="TyCSA" tvg-name="TyC Sports Argentina" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/tycs.png" tvg-country="AR" group-title="Fox Sports", TyC Sports Argentina
+http://mgoplus.org:2086/live/CON021094/021094/160128.ts
+
+############
+## RADIOS 
+############
+
+#EXTINF:-1 tvg-name="Azahares 101.5" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/azahares.png" tvg-country="AR" group-title="Radios", Azahares 101.5
+https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Beats Radio" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/beats.png" tvg-country="AR" group-title="Radios", Beats Radio
+https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
+
+#EXTINF:-1 tvg-name="Cadena Heat 91.9" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/beats.png" tvg-country="AR" group-title="Radios", Cadena Heat 91.9
+https://playerservices.streamtheworld.com/api/livestream-redirect/cadenaheat.mp3?dist=c3-web
+
+#EXTINF:-1 tvg-id="Bi7vMAqkYCg" tvg-name="La popu 92.3" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/logo.png" tvg-country="AR" group-title="Radios", La Popu 92.3
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1771842118/ei/5tWbaYr_IqaQ-LAP7oGLmAk/ip/190.50.150.72/id/Bi7vMAqkYCg.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-uxax4vopj55gb-x1xk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AVNa5-we6gIYRdkw1qfW0616YrvbVzSzSXtUwpMBC-xZaSJ-GiDDTOl-jihz2BFDbVcrdJ0kwDflSs3W/spc/6dlaFEtkfkgyXkSgLyu3/vprv/1/reg/0/playlist_type/DVR/met/1771820518,/mh/GU/mm/44/mn/sn-uxax4vopj55gb-x1xk/ms/lva/mv/u/mvi/2/pcm2cms/yes/pl/25/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565115,51565681,51580968/mt/1771818607/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AJEij0EwRAIgPvGNKEWl8eOtu2fwdtvgKGs0lrbSF5Iyx3iwo7UY9sYCIBxyW8yrSIAno4NwTMlvgm6F3CVTQHn3bhi4yjxj9s7u/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rms/lsig/APaTxxMwRgIhAIpsvhaAr3nXYpGFQ1-ic_f1WqGQnojITsPR2BgPvdwJAiEA_EPkzOFFul2nnXejA4t_kynIGojnxmVzUWhiQloyeME%3D/playlist/index.m3u8
+
+#EXTINF:-1 tvg-name="Cumbia Mix" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/logo.png" tvg-country="AR" group-title="Radios", Cumbia Mix
+https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
+
+#EXTINF:-1 tvg-id="cUIUlI9dEF0" tvg-name="El Once Radio" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/logo.png" tvg-country="AR" group-title="Radios", El Once Radio 98.7
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1771842123/ei/69WbaYefFqqQobIP9enekAQ/ip/190.50.150.72/id/cUIUlI9dEF0.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-uxax4vopj55gb-x1xr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AVNa5-w_q6YEWc0yTxBBFuGNFWMUPzKUF1ebmo5Mg6w5upu5sQZ0SDPqVBLoXfaDR3aiWIp_51eH6Qpl/spc/6dlaFLod4XL9AkWnrL79/vprv/1/playlist_type/DVR/met/1771820523,/mh/ay/mm/44/mn/sn-uxax4vopj55gb-x1xr/ms/lva/mv/u/mvi/4/pcm2cms/yes/pl/25/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565116,51565682,51580968/mt/1771818607/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,playlist_type/sig/AJEij0EwRQIhAPybC7jdvuhr8hO5QYEG0LnDdL9EoQepCbfXzpxU1INaAiABwGhobp475yek70H0t3an8kECBJh5cCCOWtJDJzYYNw%3D%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rms/lsig/APaTxxMwRAIgYYw1hIJNSsJSk1cnAAzNUaEmNTFAcgDylnaW6m2SLecCIDM334AUfdSVpX9ApTITnjauIBZGTzojYnn8-F29W-CE/playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="x5fbS_4RrFU" tvg-name="FM Vale 97.5" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/logo.png" tvg-country="AR" group-title="Radios", FM Vale 97.5
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1771842128/ei/8NWbaZCAFb_Y1sQP0qDR4Q8/ip/190.50.150.72/id/x5fbS_4RrFU.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr8---sn-uxax4vopj55gb-x1xr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AVNa5-xbu1xt2II6glRxXGLfqfS-t8J1BJSJLEVb8s09ZpVw4jVpVwoSDDh3WadrVO_XzgQlaf6r-2Bg/spc/6dlaFHNIC4U4Rf1o3vcn/vprv/1/playlist_type/DVR/met/1771820528,/mh/Uq/mm/44/mn/sn-uxax4vopj55gb-x1xr/ms/lva/mv/u/mvi/8/pl/25/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565116,51565681,51580968/mt/1771818607/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJEij0EwRQIgK8KReO5_T0YI1kocI4Xa7frAKvj5ieioAXrdOpAK_DYCIQDWfe9gcmB8gehW8MOTjL-fexFKK6iP_iLsLl-SLmZ51g%3D%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAJm2D7VBZxsOzbXS1VOYICTxrVaqpkvX4Dn5Y3C9j0hqAiEAtv056PW14zlJtdqCSx6FRoVkXNvH3T_v6lTBi8uoQuw%3D/playlist/index.m3u8
+
+#EXTINF:-1 tvg-name="Más FM 95.9" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/logo.png" tvg-country="AR" group-title="Radios", Más FM 95.9
+https://vivo.solumedia.com:19360/masfm/masfm.m3u8
+
+#EXTINF:-1 tvg-id="FV1MrtwGx20" tvg-name="Mega 98.3" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/logo.png" tvg-country="AR" group-title="Radios", Mega 98.3
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1771842132/ei/9NWbafnPM5f4-LAP4JzT2As/ip/190.50.150.72/id/FV1MrtwGx20.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-uxax4vopj55gb-x1xle.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AVNa5-ybbH3LvUZJlKyrXcwBgKD_k1ryECTYfs5he2RBqROMM6VxiM9kW3aHAj8jdBK-1ot4N_5tk_6v/spc/6dlaFCfrXao2CLkUNJUE/vprv/1/playlist_type/DVR/met/1771820533,/mh/l9/mm/44/mn/sn-uxax4vopj55gb-x1xle/ms/lva/mv/u/mvi/4/pl/25/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565116,51565681,51580968/mt/1771818607/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,playlist_type/sig/AJEij0EwRgIhAMogYHLvc6bMZ22Uym5T-gT7BDVzAkm7kHOCrp5D_UEbAiEA8sRR4yhkWo-67IOpTJyNHEzL5SvbrTJd-KRol4HaPW8%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAMbGXr754k5hpXXvrsuLSbn1jmB9vjHLXkWsiQ_51E6PAiA7bHlUwFJYFqBXkZyR0_3gj_-5bdpjK9fY4cnINU8URA%3D%3D/playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="7IGgrPGetoI" tvg-name="Pop Radio 101.5" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/logo.png" tvg-country="AR" group-title="Radios", Pop Radio 101.5
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1771842142/ei/_tWbacTeFfGI1sQPy53miQk/ip/190.50.150.72/id/7IGgrPGetoI.2/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr8---sn-uxax4vopj55gb-x1xr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AVNa5-w2xRemY86Kagzh1TM1YgQMLeI77QOSDDyeOikIy0LkOofUOdwGnM9pyInUzwDcWvwWpBOb3AKw/spc/6dlaFIFZpEGW4YskAURh/vprv/1/playlist_type/DVR/met/1771820542,/mh/NY/mm/44/mn/sn-uxax4vopj55gb-x1xr/ms/lva/mv/u/mvi/8/pl/25/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565115,51565682,51580968/mt/1771818607/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,playlist_type/sig/AJEij0EwRAIgTEdBKVRb7gOI5cwUgt2F6TG-fwc2pF64Zfx46Q48IScCICO9v1ExP20ZjdB1m1FzX5A5Wnov5Th69FciQZ1eqbhn/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAMQm3SWQs15yPW69hQaeXjtduVgt8GtsxqQG5gNMrxvAAiAmc84M4QlT08TqYVUE9qXhnPhRalt5MvscLLbYDxBLBQ%3D%3D/playlist/index.m3u8
+
+#EXTINF:-1 tvg-name="Power Max Radio TV" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/logo.png" tvg-country="AR" group-title="Radios", Power Max Radio TV
+https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
+
+#EXTINF:-1 tvg-id="vGNglKWqwcQ" tvg-name="Quiero Música TV" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/logo.png" tvg-country="AR" group-title="Radios", Quiero Música TV
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1771842147/ei/A9abacmvCO_31sQP7aKE8A8/ip/190.50.150.72/id/vGNglKWqwcQ.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-uxax4vopj55gb-x1xle.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AVNa5-xusfg1YSGbhqNIjPjMm799H8tAUbhUYnR7xUiObQ-AElop2ZliwdQ83U0taBGkNwMfPrLuDb_A/spc/6dlaFL_0FI3C8d3FiHdS/vprv/1/playlist_type/DVR/met/1771820547,/mh/PH/mm/44/mn/sn-uxax4vopj55gb-x1xle/ms/lva/mv/u/mvi/4/pl/25/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565115,51565682,51580968/mt/1771818607/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJEij0EwRgIhANDIuO9rx6JExPOYj_IjGFvV11BddtSd-TB2HlHKi5O1AiEA6NvmCZK0elWa_hobkARWiwyDj3yBksjffC7a6MjKYRQ%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAN3MO2zJ5MqkSXHa2xTkWa9JFtOmG4NhqYPIYlZi68uGAiBN6bWzJFpKkzE8JpBQWoJUdOJBwov9nUuD-XgeDu3t7A%3D%3D/playlist/index.m3u8
+
+#EXTINF:-1 tvg-id="ybXIVVg6epw" tvg-name="Radio Mitre" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/logo.png" tvg-country="AR" group-title="Radios", Radio Mitre
+https://24283.live.streamtheworld.com/AM790_56AAC.aac?dist=radiomitre_webplayer&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=886d0d6d-4cc0-4854-a44d-4691d753ec48
+
+#EXTINF:-1 tvg-id="8rO9b-K0hFo" tvg-name="Urbana Play 104.3" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/logo.png" tvg-country="AR" group-title="Radios", Urbana Play 104.3
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1771842151/ei/B9abacXjMaehobIP8ZrhkQo/ip/190.50.150.72/id/8rO9b-K0hFo.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr8---sn-uxax4vopj55gb-x1xr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AVNa5-whNwcLTOJVJLdJFCYKYfNvoVIgay7ueyjbAMJuMr6jXETqNh6iPe1QFNJ07_-96udNhjRcR3Vy/spc/6dlaFAcqxpvIhWQq8vbd/vprv/1/reg/0/playlist_type/DVR/met/1771820552,/mh/cv/mm/44/mn/sn-uxax4vopj55gb-x1xr/ms/lva/mv/u/mvi/8/pl/25/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565116,51565681,51580968/mt/1771818607/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AJEij0EwRQIhAMnUQMrScmZpoGzmrNU61IvJCpJeyT3S9bcrDIfZ6K8IAiBzrtpDvwBN1QLyaTOa2p4alAmKKqAfVN0Hx3DWXsiebw%3D%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgN8h92BeJPRn1BihMBoeFmBQu0clu8QqOJpkjtun-Ak8CIQD0awEkKyYMQWDkZsqhA_UcW8BqsnD9Y60Y1mPxHNDPbw%3D%3D/playlist/index.m3u8
+
+###########
+## OTROS
+###########
+
+#EXTINF:-1 tvg-name="Magic Kids" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/logo.png" tvg-country="AR" group-title="Otros", Magic Kids
+https://magicstream.ddns.net/magicstream/stream.m3u8
+
+#EXTINF:-1 tvg-name="Garage TV Latin America" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/logo.png" tvg-country="AR" group-title="Otros", Garage TV Latin America
+https://stream1.sersat.com/hls/garagetv.m3u8
