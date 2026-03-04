@@ -1,39 +1,32 @@
 #!/bin/bash
 
-playlist_path="/sdcard/ar"
-playlist="a.m3u"
+playlist_path="/sdcard/a"
+playlist="ar.m3u"
 
 # Define the IDs you want to update
 ids=(
     "ArKbAx1K-2U" #A24
-    "zcWXboTnous" #America
     "SF06Qy1Ct6Y" #C5N
-    "c8Uxc6pwDNA" #C26
+    "9wbcm196NT8" #C26
     "Qr61waJ6AZg" #CNÑ
-    "sGnaFL_Syl0" #Cronica
-    "HugsOqwPsHA" #Diputados
-    "nndzeKDSjuc" #C12
-    "b4X7InUxnAI" #C8
-    "R50CmfdYKto" #OnceTV
-    "Vh8xmLBJtR8" #Siete
+    "JC7f3EUDaqw" #Cronica
+    "G6W51ntv4M0" #Diputados
     "M_gUd2Bp9g0" #LN+
     "XhAYcYpPzTc" #Telefe Noticias
     "zrCQt4bm-Qc" #Telefe Rosario
     "cb12KmMMDJA" #TN
     "Bi7vMAqkYCg" #91.9
-    "cUIUlI9dEF0" #OnceRadio
     "x5fbS_4RrFU" #97.5
     "FV1MrtwGx20" #98.3
     "7IGgrPGetoI" #101.5
     "vGNglKWqwcQ" #Quiero
-    "LlcOeLqS7xg" #104.3
 )
 
 pushd $playlist_path
 
 # 1. Create a Backup
 backup_file="${playlist}.$(date +%Y%m%d_%H%M).bak"
-cp "$playlist" "$backup_file"
+cp "$playlist" "backups/$backup_file"
 echo "Backup created: $backup_file"
 
 # 2. Iterate through IDs
