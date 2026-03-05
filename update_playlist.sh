@@ -65,7 +65,8 @@ git commit --all -q -m "Regulary update"
 echo "• Pushing changes"
 git push -q -f
 
-gh release upload AR $playlist
+echo "• Pushing release"
+gh release upload --clobber AR $playlist
 
 echo "• Process complete."
 echo ""
