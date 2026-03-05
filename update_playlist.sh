@@ -59,10 +59,13 @@ done
 echo ""
 echo "• Commit changes"
 git add logos
+git add $playlist
 git commit --all -q -m "Regulary update"
 
 echo "• Pushing changes"
 git push -q -f
+
+gh release upload AR $playlist
 
 echo "• Process complete."
 echo ""
