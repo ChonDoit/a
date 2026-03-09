@@ -7,13 +7,11 @@ playlist="ar.m3u"
 ids=(
     "ArKbAx1K-2U" #A24
     "SF06Qy1Ct6Y" #C5N
-    "9wbcm196NT8" #C26
     "Qr61waJ6AZg" #CNÑ
     "JC7f3EUDaqw" #Cronica
     "G6W51ntv4M0" #Diputados
     "M_gUd2Bp9g0" #LN+
     "XhAYcYpPzTc" #Telefe Noticias
-    "zrCQt4bm-Qc" #Telefe Rosario
     "cb12KmMMDJA" #TN
     "Bi7vMAqkYCg" #91.9
     "x5fbS_4RrFU" #97.5
