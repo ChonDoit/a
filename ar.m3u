@@ -46,6 +46,9 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1773259419/ei/
 #EXTINF:-1 tvg-id="XhAYcYpPzTc" tvg-name="Telefe Noticias" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/logo.png" tvg-country="AR" group-title="Noticieros", Telefe Noticias
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1773462873/ei/-ZC0aeu9JKbPobIPqZDF8AI/ip/2802:8010:b01e:a801:4cf4:111c:377e:e977/id/XhAYcYpPzTc.2/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr12---sn-uxax4vopj55gb-x1xz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AVNa5-yPp-HlRHwkBByGsTZJqD0uupgXfLskiPcjxAhjCX0q7hBfxDGLAcZ3J_b6sEwksy_EDq7aAIG6/spc/6dlaFLooytNg4XAz_idxa8b_sarJ_W-IMz2JfZZgorQVPaDluw/vprv/1/reg/0/playlist_type/DVR/hcs/sd/initcwndbps/2072500/met/1773441273,/mh/04/mm/44/mn/sn-uxax4vopj55gb-x1xz/ms/lva/mv/m/mvi/12/pl/47/rmhost/rr3---sn-uxax4vopj55gb-x1xz.googlevideo.com/rms/lva,lva/smhost/rr7---sn-uxax4vopj55gb-x1xl.googlevideo.com/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681,51791334/mt/1773440683/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhALq9YMhKLry-laonlKXOAWm-CP4ZpUoaT8WKhbwngqJKAiBS-nxKnfmvXqbBKfu7lxW_o2KwWSNlmwhX9Ykdgz2HsA%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rmhost,rms,smhost/lsig/APaTxxMwRQIhALLvURn_AHKqzji5SEhqe0lhmFinLU1ifhLhIZDQ0npBAiBh-j_dcW1Bij4rEJBrQhLED4NaRaznikY-Q21DscKMsQ%3D%3D/playlist/index.m3u8
 
+#EXTINF:-1 tvg-id="XhAYcYpPzTc" tvg-name="Telefe" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/logo.png" tvg-country="AR" group-title="Noticieros", Telefe
+https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1774996820~exp=1775004020~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=7775bf5494c3390da387c49deb200e14bce4071d5ebb6d34b3d6ff66124f2bb6
+
 #EXTINF:-1 tvg-name="Telefe Rosario" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/logo.png" tvg-country="AR" group-title="Noticieros", Telefe Rosario
 https://telefecanal1.akamaized.net/hls/live/2033413-b/canal5rosario/TOK/master.m3u8?hdnea=st=1773013300~exp=1773020500~acl=/hls/live/2033413-b/canal5rosario/TOK/*~hmac=67ff7d60a207a80e77a955a818124d66516c36859ce2446c80322c29f6d80965
 
@@ -88,28 +91,28 @@ https://cms-public-artifacts.motionarray.com/content/motion-array/1311281/PRD-13
 #################
 
 #EXTINF:-1 tvg-id="ESPNPS" tvg-name="ESPN Premium Sur" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/espn.png" tvg-country="AR" group-title="ESPN Regional", ESPN Premium Sur
-https://tv.nstvlatino.com:8443/UY2269/8273774194/7940
+https://cms-public-artifacts.motionarray.com/content/motion-array/1311281/PRD-1311281-wCcQkziAOi8iVx7P-original_playlist_1708866118.m3u8
 
 #EXTINF:-1 tvg-id="ESPNS" tvg-name="ESPN Sur" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/espn.png" tvg-country="AR" group-title="ESPN Regional", ESPN Sur
-https://tv.nstvlatino.com:8443/UY2269/8273774194/1155888
+https://cms-public-artifacts.motionarray.com/content/motion-array/1311281/PRD-1311281-wCcQkziAOi8iVx7P-original_playlist_1708866118.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2S" tvg-name="ESPN 2 Sur" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/espn.png" tvg-country="AR" group-title="ESPN Regional", ESPN 2 Sur
-https://tv.nstvlatino.com:8443/UY2269/8273774194/43637
+https://cms-public-artifacts.motionarray.com/content/motion-array/1311281/PRD-1311281-wCcQkziAOi8iVx7P-original_playlist_1708866118.m3u8
 
 #EXTINF:-1 tvg-id="ESPN3S" tvg-name="ESPN 3 Sur" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/espn.png" tvg-country="AR" group-title="ESPN Regional", ESPN 3 Sur
-https://tv.nstvlatino.com:8443/UY2269/8273774194/1155890
+https://cms-public-artifacts.motionarray.com/content/motion-array/1311281/PRD-1311281-wCcQkziAOi8iVx7P-original_playlist_1708866118.m3u8
 
 #EXTINF:-1 tvg-id="ESPN4S" tvg-name="ESPN 4 Sur" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/espn.png" tvg-country="AR" group-title="ESPN Regional", ESPN 4 Sur
-https://tv.nstvlatino.com:8443/UY2269/8273774194/1118360
+https://cms-public-artifacts.motionarray.com/content/motion-array/1311281/PRD-1311281-wCcQkziAOi8iVx7P-original_playlist_1708866118.m3u8
 
 #EXTINF:-1 tvg-id="ESPN5S" tvg-name="ESPN 5 Sur" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/espn.png" tvg-country="AR" group-title="ESPN Regional", ESPN 5 Sur
-https://tv.nstvlatino.com:8443/UY2269/8273774194/1198287
+https://cms-public-artifacts.motionarray.com/content/motion-array/1311281/PRD-1311281-wCcQkziAOi8iVx7P-original_playlist_1708866118.m3u8
 
 #EXTINF:-1 tvg-id="ESPN6S" tvg-name="ESPN 6 Sur" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/espn.png" tvg-country="AR" group-title="ESPN Regional", ESPN 6 Sur
-https://tv.nstvlatino.com:8443/UY2269/8273774194/119785
+https://cms-public-artifacts.motionarray.com/content/motion-array/1311281/PRD-1311281-wCcQkziAOi8iVx7P-original_playlist_1708866118.m3u8
 
 #EXTINF:-1 tvg-id="ESPN7S" tvg-name="ESPN 7 Sur" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/espn.png" tvg-country="AR" group-title="ESPN Regional", ESPN 7 Sur
-https://tv.nstvlatino.com:8443/UY2269/8273774194/42456
+https://cms-public-artifacts.motionarray.com/content/motion-array/1311281/PRD-1311281-wCcQkziAOi8iVx7P-original_playlist_1708866118.m3u8
 
 #################
 ## ESPN NORTE
@@ -141,13 +144,13 @@ https://cms-public-artifacts.motionarray.com/content/motion-array/1311281/PRD-13
 ############
 
 #EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/dsports.png" tvg-country="AR" group-title="DSports", Dsports
-http://zavqeno.com/live/5UE1LVH/8GA2KPU/30743.ts
+https://cms-public-artifacts.motionarray.com/content/motion-array/1311281/PRD-1311281-wCcQkziAOi8iVx7P-original_playlist_1708866118.m3u8
 
 #EXTINF:-1 tvg-id="Dsports2" tvg-name="DSports 2" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/dsports.png" tvg-country="AR" group-title="DSports", DSports 2
-http://zavqeno.com/live/5UE1LVH/8GA2KPU/30742.ts
+https://cms-public-artifacts.motionarray.com/content/motion-array/1311281/PRD-1311281-wCcQkziAOi8iVx7P-original_playlist_1708866118.m3u8
 
 #EXTINF:-1 tvg-id="Dsports+" tvg-name="DSports +" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/dsports.png" tvg-country="AR" group-title="DSports", DSports+
-http://zavqeno.com/live/5UE1LVH/8GA2KPU/30741.ts
+https://cms-public-artifacts.motionarray.com/content/motion-array/1311281/PRD-1311281-wCcQkziAOi8iVx7P-original_playlist_1708866118.m3u8
 
 ###############
 ## Claro Sports 
@@ -180,7 +183,7 @@ https://cms-public-artifacts.motionarray.com/content/motion-array/1311281/PRD-13
 ############
 
 #EXTINF:-1 tvg-id="tntSP" tvg-name="TNT Sports" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/tnt_sports.png" group-title="TNT", TNT Sports
-http://zavqeno.com/live/5UE1LVH/8GA2KPU/197733.ts
+https://cms-public-artifacts.motionarray.com/content/motion-array/1311281/PRD-1311281-wCcQkziAOi8iVx7P-original_playlist_1708866118.m3u8
 
 #EXTINF:-1 tvg-id="tntSPp" tvg-name="TNT Sports Premium" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/no_disponible.png" group-title="TNT", TNT Sports Premium
 https://cms-public-artifacts.motionarray.com/content/motion-array/1311281/PRD-1311281-wCcQkziAOi8iVx7P-original_playlist_1708866118.m3u8
