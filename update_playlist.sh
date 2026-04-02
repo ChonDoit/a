@@ -12,6 +12,7 @@ ids=(
     "G6W51ntv4M0" #Diputados
     "DVZ2rJQb_0g" #LN+
     "XhAYcYpPzTc" #Telefe Noticias
+    "cb12KmMMDJA" #TodoNoticias
     "Bi7vMAqkYCg" #91.9
     "FV1MrtwGx20" #98.3
     "vGNglKWqwcQ" #Quiero
