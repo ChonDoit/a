@@ -10,13 +10,10 @@ ids=(
     "Qr61waJ6AZg" #CNÑ
     "JC7f3EUDaqw" #Cronica
     "G6W51ntv4M0" #Diputados
-    "M_gUd2Bp9g0" #LN+
+    "DVZ2rJQb_0g" #LN+
     "XhAYcYpPzTc" #Telefe Noticias
-    "cb12KmMMDJA" #TN
     "Bi7vMAqkYCg" #91.9
-    "x5fbS_4RrFU" #97.5
     "FV1MrtwGx20" #98.3
-    "7IGgrPGetoI" #101.5
     "vGNglKWqwcQ" #Quiero
 )
 
