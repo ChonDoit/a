@@ -29,31 +29,31 @@ cp "$playlist" "backups/$backup_file"
 echo "Backup created: $backup_file"
 
 # 2. Iterate through IDs
-#echo "Starting update: $(date)"
-#for id in "${ids[@]}"; do
-#    echo ""
-#    echo "Processing ID: $id"
-#    
-#    # Try Format 96 First
-#    new_url=`yt-dlp -f 96 -g "https://www.youtube-nocookie.com/embed/$id" 2>/dev/null | grep https`
+echo "Starting update: $(date)"
+for id in "${ids[@]}"; do
+    echo ""
+    echo "Processing ID: $id"
     
-#    # Fallback to Format 95 if 96 is empty
-#    if [ -z "$new_url" ]; then
-#        new_url=`yt-dlp -f 95 -g "https://www.youtube-nocookie.com/embed/$id" 2>/dev/null | grep https`
-#    fi
+    # Try Format 96 First
+    new_url=`yt-dlp -f 96 -g "https://www.youtube-nocookie.com/embed/$id" 2>/dev/null | grep https`
     
-#    # Update the file if a URL was found
-#    if [ -n "$new_url" ]; then
-#        if grep -q "tvg-id=\"$id\"" "$playlist"; then
-#            sed -i "/tvg-id=\"$id\"/{n; s|.*|$new_url|;}" "$playlist"
-#            echo "   [+] Success (Format: $([[ "$new_url" == *"itag/96"* ]] && echo "96" || echo "95"))"
-#        else
-#            echo "   [-] ID $id not found in playlist file."
-#        fi
-#    else
-#        echo "   [X] Failed: No URL returned for 96 or 95."
-#    fi
-#done
+    # Fallback to Format 95 if 96 is empty
+    if [ -z "$new_url" ]; then
+        new_url=`yt-dlp -f 95 -g "https://www.youtube-nocookie.com/embed/$id" 2>/dev/null | grep https`
+    fi
+    
+    # Update the file if a URL was found
+    if [ -n "$new_url" ]; then
+        if grep -q "tvg-id=\"$id\"" "$playlist"; then
+            sed -i "/tvg-id=\"$id\"/{n; s|.*|$new_url|;}" "$playlist"
+            echo "   [+] Success (Format: $([[ "$new_url" == *"itag/96"* ]] && echo "96" || echo "95"))"
+        else
+            echo "   [-] ID $id not found in playlist file."
+        fi
+    else
+        echo "   [X] Failed: No URL returned for 96 or 95."
+    fi
+done
 
 echo ""
 echo "• Commit changes"
