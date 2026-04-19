@@ -9,13 +9,16 @@ ids=(
     "SF06Qy1Ct6Y" #C5N
     "Qr61waJ6AZg" #CNÑ
     "JC7f3EUDaqw" #Cronica
-    "G6W51ntv4M0" #Diputados
+    "rBEBUQ0eljM" #Diputados
     "DVZ2rJQb_0g" #LN+
     "XhAYcYpPzTc" #Telefe Noticias
     "cb12KmMMDJA" #TodoNoticias
     "Bi7vMAqkYCg" #91.9
     "FV1MrtwGx20" #98.3
     "vGNglKWqwcQ" #Quiero
+    "V6RlyFXQu6I" #Canal9
+    "QcyJONgBcvM" #ElOnce
+    "Hf3f-tlCFPw" #ElOnceRadio
 )
 
 pushd $playlist_path
