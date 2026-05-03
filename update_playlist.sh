@@ -6,7 +6,6 @@ playlist="ar.m3u"
 # Define the IDs you want to update
 ids=(
     "ArKbAx1K-2U" #A24
-    "SF06Qy1Ct6Y" #C5N
     "Qr61waJ6AZg" #CNÑ
     "JC7f3EUDaqw" #Cronica
     "rBEBUQ0eljM" #Diputados
