@@ -90,8 +90,19 @@ http://cf.8kgaminghub.shop/live/a0a9c46558/5c867a5ac4/768376.ts
 #EXTINF:-1 tvg-id="ESPN3" tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/espn.png" tvg-country="AR" group-title="ESPN", ESPN 3 -S8
 http://cf.8kgaminghub.shop/live/a0a9c46558/5c867a5ac4/768377.ts
 
-#EXTINF:-1 tvg-id="ESPNPREMIUM" tvg-name="ESPN PREMIUM" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/espn.png" tvg-country="AR" group-title="ESPN", ESPN PREMIUM -S8
+#EXTINF:-1 tvg-id="334196" tvg-name="ESPN PREMIUM" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/espn.png" tvg-country="AR" group-title="ESPN", ESPN PREMIUM -S8
 http://cf.8kgaminghub.shop/live/a0a9c46558/5c867a5ac4/610510.ts
+
+############
+## TNT
+############
+
+#EXTINF:-1 tvg-id="tntSP" tvg-name="TNT Sports -E4" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/tnt_sports.png" group-title="TNT", TNT Sports -E4
+http://155838967188.dns-e4k-26.sbs/live/6ct8ie6cmm/ax3p9rl5m2/40972.ts
+
+#EXTINF:-1 tvg-id="tntSP" tvg-name="TNT Sports -S8" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/tnt_sports.png" group-title="TNT", TNT Sports -S8
+http://cf.8kgaminghub.shop/live/a0a9c46558/5c867a5ac4/609208.ts
+
 
 ############
 ## DSports 
@@ -131,16 +142,6 @@ https://cms-public-artifacts.motionarray.com/content/motion-array/1311281/PRD-13
 
 #EXTINF:-1 tvg-id="FoxSportsP" tvg-name="Fox Sports Premium" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/no_disponible.png" tvg-country="AR" group-title="Fox Sports", Fox Sports Premium
 https://cms-public-artifacts.motionarray.com/content/motion-array/1311281/PRD-1311281-wCcQkziAOi8iVx7P-original_playlist_1708866118.m3u8
-
-############
-## TNT
-############
-
-#EXTINF:-1 tvg-id="tntSP" tvg-name="TNT Sports -E4" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/tnt_sports.png" group-title="TNT", TNT Sports -E4
-http://155838967188.dns-e4k-26.sbs/live/6ct8ie6cmm/ax3p9rl5m2/40972.ts
-
-#EXTINF:-1 tvg-id="tntSP" tvg-name="TNT Sports -S8" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/no_disponible.png" group-title="TNT", TNT Sports -S8
-http://cf.8kgaminghub.shop/live/a0a9c46558/5c867a5ac4/609208.ts
 
 ############
 ## TyC 
