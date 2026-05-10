@@ -57,7 +57,7 @@ done
 echo ""
 echo "• Commit changes"
 git add logos
-git add $playlist
+# git add $playlist
 git commit --all -q -m "Regulary update"
 
 echo "• Pushing changes"
