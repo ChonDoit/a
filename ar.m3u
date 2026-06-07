@@ -49,12 +49,6 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v4/mono.m3u8
 #EXTINF:-1 tvg-id="DVZ2rJQb_0g" tvg-name="La Nación+" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/ln+.png" tvg-country="AR" group-title="Noticieros", La Nación+
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780804828/ei/fJgkasXYK5OaobIPq9qP0Qk/ip/2802:8010:b009:9301:f810:d5e8:1dbd:6abb/id/DVZ2rJQb_0g.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr9---sn-uxax4vopj55gb-x1x6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/ARmQxEUYhc5jNaMtg6XvgmDNMuXpTnGpgREwF9pCTqsb0xHeEm_IoSk762nyippmgvsh1yI1zjB16Fkr/spc/SQ-ummll2ID_Hm84RtqmXf_kcweIsdXtnxKWTS_7icyBX_Y/vprv/1/reg/0/playlist_type/DVR/hcs/sd/initcwndbps/2140000/met/1780783228,/mh/Yx/mm/44/mn/sn-uxax4vopj55gb-x1x6/ms/lva/mv/m/mvi/9/pl/45/rmhost/rr5---sn-uxax4vopj55gb-x1x6.googlevideo.com/rms/lva,lva/smhost/rr2---sn-uxax4vopj55gb-x1xe.googlevideo.com/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565682,51946838/mt/1780782747/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAOmZyt_arklW7wWYbu-bdc004EJxiULMjjYYQc7WU5_GAiAqep9aOJQ1uIe8QSZFQddBnZPcYS-sE3v5pKSw1z2Dug%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rmhost,rms,smhost/lsig/APaTxxMwRAIgIFq9IKHFFojN7aLXm6m85egKMe4c17IqDJFYz8_a1skCIG2oBN1vwEW5qIuhtsVwynnNKXZ1mskST6qtNBepL3YI/playlist/index.m3u8
 
-#EXTINF:-1 tvg-name="Telefe" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/telefe.png" tvg-country="AR" group-title="Noticieros", Telefe
-http://uytpi.aldocecelia.org/live/Q1XLBTX/PSTU9F5/197716.ts
-
-#EXTINF:-1 tvg-name="Telefe3" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/telefe.png" tvg-country="AR" group-title="Noticieros", Telefe3
-http://uytpi.aldocecelia.org/live/Q1XLBTX/PSTU9F5/30727.ts
-
 #EXTINF:-1 tvg-name="Telefe2" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/telefe.png" tvg-country="AR" group-title="Noticieros", Telefe 2
 https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1780786427~exp=1780793627~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=46c80f9504536edd1c4e1c584de42890e4341a8e17ef46e83e94cdcee5a198ef
 
