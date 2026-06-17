@@ -58,7 +58,13 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1780804840/ei/
 #EXTINF:-1 tvg-name="Telefe Rosario" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/telefe_rosario.png" tvg-country="AR" group-title="Noticieros", Telefe Rosario
 https://telefecanal1.akamaized.net/hls/live/2033413-b/canal5rosario/TOK/master.m3u8?hdnea=st=1776560968~exp=1776568168~acl=/hls/live/2033413-b/canal5rosario/TOK/*~hmac=819c08dcd56e50f2a55218bee9b9068c2bcc57fb42c2f081f2db150804551ce2
 
-#EXTINF:-1 tvg-id="RQNspfI2zCk" tvg-name="Televisión Pública" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/tvp.png" tvg-country="AR" group-title="Noticieros", Televisión Pública
+#EXTINF:-1 tvg-id="tvpublica" tvg-name="Televisión Pública" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/tvp.png" tvg-country="AR" group-title="Noticieros", Televisión Pública
+https://edgetvp.global.ssl.fastly.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8?hdnts=exp=1781690491~acl=190.49.112.140~hmac=422715699ff395a220572d0adebb8d208e6a081aeee043334d385b0b85222ba9
+
+#EXTINF:-1 tvg-id="tvpublica1080p" tvg-name="Televisión Pública" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/tvp.png" tvg-country="AR" group-title="Noticieros", Televisión Pública 1080p
+https://edgetvp.global.ssl.fastly.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8?hdnts=exp=1781690643~acl=190.49.112.140~hmac=66ebba3b42f1c396e118d88d21ba63492b39bea64c1545482286f22c439ff6d4
+
+#EXTINF:-1 tvg-id="Gep0qNTBLmo" tvg-name="Televisión Pública" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/tvp.png" tvg-country="AR" group-title="Noticieros", Televisión Pública -Youtube-
 https://g2.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
 
 #EXTINF:-1 tvg-id="cb12KmMMDJA" tvg-name="TN • Todo Noticias" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/tn.png" tvg-country="AR" group-title="Noticieros", Todo Noticias
