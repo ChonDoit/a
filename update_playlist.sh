@@ -8,16 +8,9 @@ ids=(
     "ArKbAx1K-2U" #A24
     "Qr61waJ6AZg" #CNÑ
     "JC7f3EUDaqw" #Cronica
-    "rBEBUQ0eljM" #Diputados
+    "eKfPZ6f0SQw" #Diputados
     "DVZ2rJQb_0g" #LN+
-    "XhAYcYpPzTc" #Telefe Noticias
     "cb12KmMMDJA" #TodoNoticias
-    "Bi7vMAqkYCg" #91.9
-    "FV1MrtwGx20" #98.3
-    "vGNglKWqwcQ" #Quiero
-    "V6RlyFXQu6I" #Canal9
-    "QcyJONgBcvM" #ElOnce
-    "Hf3f-tlCFPw" #ElOnceRadio
 )
 
 pushd $playlist_path
@@ -36,7 +29,7 @@ for id in "${ids[@]}"; do
     format_used=""
     new_url=""
     
-    # Try Format 96 First with timeout protection (30 seconds max)
+    # Try Format 96 first
     new_url=$(timeout 30 yt-dlp -f 96 -g "https://www.youtube-nocookie.com/embed/$id" 2>/dev/null | grep -E '^https?://')
     if [ -n "$new_url" ]; then
         format_used="96"
@@ -44,7 +37,7 @@ for id in "${ids[@]}"; do
     
     # Fallback to Format 95 if 96 is empty
     if [ -z "$new_url" ]; then
-        echo "   [!] Format 96 not found or timed out. Trying fallback Format 95..."
+        echo "   [!] Format 96 not found."
         new_url=$(timeout 30 yt-dlp -f 95 -g "https://www.youtube-nocookie.com/embed/$id" 2>/dev/null | grep -E '^https?://')
         if [ -n "$new_url" ]; then
             format_used="95"
@@ -53,7 +46,7 @@ for id in "${ids[@]}"; do
     
     # If both fail, try without format (let yt-dlp choose)
     if [ -z "$new_url" ]; then
-        echo "   [!] Format 95 not found. Trying default (best available)..."
+        echo "   [!] Format 95 not found."
         new_url=$(timeout 30 yt-dlp -g "https://www.youtube-nocookie.com/embed/$id" 2>/dev/null | grep -E '^https?://')
         if [ -n "$new_url" ]; then
             format_used="default (auto-selected)"
