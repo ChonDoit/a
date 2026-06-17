@@ -5,14 +5,14 @@
 ##############
 
 #EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/dsports.png" tvg-country="AR" group-title="DSports", Dsports
-https://st.streamtpday1.xyz/global/dsports/index.m3u8?token=b71bb486c4fc326e7eecd08ff70230300abddc5f-97-1781707538-1781653538&ip=190.49.112.140
+https://am91cm5leq.fubo18.com/dsports/mono.m3u8?token=1fa3aace0dd01de047259a33e539a8d820d44c85-82-1781680283-1781662283
 
 ############
 ## TyC 
 ############
 
 #EXTINF:-1 tvg-id="TyCS" tvg-name="TyC Sports" tvg-logo="https://raw.githubusercontent.com/ChonDoit/a/refs/heads/main/logos/tycs.png" tvg-country="AR" group-title="TyC Sports", TyC Sports
-https://sa.streamtpday1.xyz/global/tycsports/index.m3u8?token=83819719b45a0e5d200c17437110d0b2ca4d2ed3-cc-1781706201-1781652201&ip=190.49.112.140
+https://st.streamtpday1.xyz/global/tycsports/index.m3u8?token=4e72ca560e223f94577f27f79524e673930446ac-c5-1781708233-1781654233&ip=190.49.112.140
 
 ###############
 ## NOTICIEROS
