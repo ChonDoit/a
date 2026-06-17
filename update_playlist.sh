@@ -11,7 +11,8 @@ ids=(
     "eKfPZ6f0SQw" #Diputados
     "DVZ2rJQb_0g" #LN+
     "cb12KmMMDJA" #TodoNoticias
-    "zgMn54218" #Telefe
+    "m-zgMn54218" #Telefe
+    "VWhQ6xspnSc" #C5N
 )
 
 pushd $playlist_path
