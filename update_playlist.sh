@@ -11,7 +11,6 @@ ids=(
     "eKfPZ6f0SQw" #Diputados
     "DVZ2rJQb_0g" #LN+
     "cb12KmMMDJA" #TodoNoticias
-    "m-zgMn54218" #Telefe
     "VWhQ6xspnSc" #C5N
     "0qw0B-ybyVA" #TVPublica
     "afzIhFBkECU"
