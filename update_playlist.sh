@@ -13,7 +13,9 @@ ids=(
     "cb12KmMMDJA" #TodoNoticias
     "m-zgMn54218" #Telefe
     "VWhQ6xspnSc" #C5N
-    "Gep0qNTBLmo" #TVPublica
+    "0qw0B-ybyVA" #TVPublica
+    "afzIhFBkECU"
+    "b8VXJ89GdxE"
 )
 
 pushd $playlist_path
