@@ -12,9 +12,7 @@ ids=(
     "DVZ2rJQb_0g" #LN+
     "cb12KmMMDJA" #TodoNoticias
     "VWhQ6xspnSc" #C5N
-    "0qw0B-ybyVA" #TVPublica
-    "afzIhFBkECU"
-    "b8VXJ89GdxE"
+    "BjvTYTgBhUY" #TVPublica
 )
 
 pushd $playlist_path
