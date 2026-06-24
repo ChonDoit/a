@@ -9,10 +9,10 @@ ids=(
     "Qr61waJ6AZg" #CNÑ
     "JC7f3EUDaqw" #Cronica
     "eKfPZ6f0SQw" #Diputados
-    "DVZ2rJQb_0g" #LN+
+    "FEWZjXJ7M0c" #LN+
     "cb12KmMMDJA" #TodoNoticias
     "VWhQ6xspnSc" #C5N
-    "BjvTYTgBhUY" #TVPublica
+    "xZFnLFX6C1Y" #TVPublica
 )
 
 pushd $playlist_path
