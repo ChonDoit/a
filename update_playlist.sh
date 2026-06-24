@@ -11,7 +11,6 @@ ids=(
     "eKfPZ6f0SQw" #Diputados
     "FEWZjXJ7M0c" #LN+
     "cb12KmMMDJA" #TodoNoticias
-    "VWhQ6xspnSc" #C5N
     "xZFnLFX6C1Y" #TVPublica
 )
 
