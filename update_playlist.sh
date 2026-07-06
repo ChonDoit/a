@@ -12,6 +12,7 @@ ids=(
     "FEWZjXJ7M0c" #LN+
     "cb12KmMMDJA" #TodoNoticias
     "jZHZhzQiTek" #TVPublica
+    "VWhQ6xspnSc" #C5N
 )
 
 pushd $playlist_path
